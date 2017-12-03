@@ -9,8 +9,8 @@ var transporter = nodeMailer.createTransport({
 			  secureConnection: true, // 使用 SSL
 			  port: 25, // SMTP 端口
 			  auth: {
-	          user: '2228680344@qq.com',
-	          pass: 'zcsevprxpuaxdhig'
+	          user: '',
+	          pass: ''
     		  }
 
 	     }),
