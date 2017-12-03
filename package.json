@@ -1,0 +1,13 @@
+{
+  "name": "sendMail",
+  "description": " using Node.js",
+  "keywords": [
+    "nodemailer stmp",
+    "send mail"
+  ],
+  "devDependencies": {
+    "nodemailer": "^2.3.2",
+    "nodemailer-smtp-transport": "^2.4.2"
+  },
+  "license": "MIT"
+}
