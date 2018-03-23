@@ -1,0 +1,14 @@
+language: node_js
+node_js: stable
+install:
+- npm install
+script:
+- npm i
+
+branches:
+  only:
+  - master
+  
+notifications:
+  email:
+  - 2228680344@qq.com
